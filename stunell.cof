@@ -1,0 +1,6 @@
+cert = /etc/stunnel/stunnel.pem
+key = /etc/stunnel/stunnel.key
+
+[ssh]
+accept = 443
+connect = 22
